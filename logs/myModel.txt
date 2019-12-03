@@ -1,0 +1,6 @@
+Get Better top1 : [4.6296296] saving weights to ./checkpoints/myModel.pth
+Get Better top1 : [15.046296] saving weights to ./checkpoints/myModel.pth
+Get Better top1 : 2.7777777777777777 saving weights to ./checkpoints/myModel.pth
+Get Better top1 : 12.847222222222221 saving weights to ./checkpoints/myModel.pth
+Get Better top1 : 8.333333333333334 saving weights to ./checkpoints/myModel.pth
+Get Better top1 : 9.375 saving weights to ./checkpoints/myModel.pth
