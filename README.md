@@ -13,6 +13,15 @@
 3、数据准备：    
 -----
 下载数据集即四类花的分类，然后解压放到文件夹data里。  
+文件夹树结构：  
+* ./pytorch-image-classification
+  * data
+    * input_data
+  * example
+  * checkpoints
+  * logs
+  * utils
+  * train.py Model.py READEME.md 等根目录的文件  
 
 4、快速开始：  
 ---------
@@ -20,6 +29,7 @@
 修改config.py中设置的路径和其他参数。  
 运行train.py进行训练，也可自行修改model中的网络结构再训练。  
 最后进行测试。
+
 
 
 
